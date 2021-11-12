@@ -11,4 +11,4 @@ tensoflow=1.13.1
 keras=2.1.2
 Flask
 ## 联系
-Shihe Wang, 2053104031@qq.com
+2053104031@qq.com
