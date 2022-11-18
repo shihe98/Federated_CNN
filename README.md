@@ -1,14 +1,14 @@
 # Federated_CNN
-本方案完成一个原始的联邦学习框架，深入研究需要将训练与通信过程进行改进。
-## 执行过程
-1、执行model_server.py，等待连接（需要设置参与者个数）
-2、依次执行各参与者代码（数量与上述设置相同）
+This demo completed an original federated learning framework, and further investigates the need to improve privacy and communication processes.
+## Execution
+1.Run model_server.py and wait for the connection (need to set the number of participants)
+2.Run each participant clintx.py in turn (same amount as above)
 
-ps：需要把ip地址绑定为本机ip地址，才能实现模拟过程
-## 库
+ps：You need to bind the ip address to the local ip address, it can implement the simulation process.
+## Requirements
 Python 3.6
 tensoflow=1.13.1
 keras=2.1.2
 Flask
-## 联系
-2053104031@qq.com
+## Connection
+shihew98@gmail.com
